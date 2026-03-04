@@ -5,7 +5,7 @@ It performs standard arithmetic operations like addition, subtraction, multiplic
 
 ## Preview
 
-![Preview](Preview.png)
+![Preview](Calculator.png)
 
 ## Features
 
